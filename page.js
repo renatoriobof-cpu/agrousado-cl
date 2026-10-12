@@ -1,7 +1,7 @@
 
 'use client'
 import { useState, useEffect } from 'react'
-import { supabase } from '../lib/supabase'
+import { supabase } from './supabase'
 
 const MARCAS = ['Todas','John Deere','New Holland','Massey Ferguson','Valtra','Kubota','Otra']
 
